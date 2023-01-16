@@ -8,9 +8,8 @@ I'm Doncan, web development student, 👨🏽‍💻 working remotely since 2022
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jhondoncan&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats-jhondoncan.vercel.app/api?username=jhondoncan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-jhondoncan.vercel.app/api/top-langs/?username=jhondoncan&layout=compact&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhondoncan&theme=tokyonight&hide_border=false)
 
 ---
 
