@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Doncan, web development student, 👨🏽‍💻 working remotely since 2022 🚀<br><br>🔭 I’m currently working on [Digicon SAS](https://digicon.com.co/)<br>🌱 I’m currently learning React and Node<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Lofi music helps me to program better
+I'm Doncan, web development, 👨🏽‍💻🚀<br><br>🔭 I’m currently working on [Digicon SAS](https://digicon.com.co/)<br>🌱 I’m currently learning React and Node<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Lofi music helps me to program better
 
 # 💻 Tech Stack:
 
@@ -8,8 +8,8 @@ I'm Doncan, web development student, 👨🏽‍💻 working remotely since 2022
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-jhondoncan.vercel.app/api?username=jhondoncan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jhondoncan&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-jhondoncan.vercel.app/api?username=arlemdev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arlemdev&theme=tokyonight&hide_border=false)
 
 ---
 
