@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Arlem, web development, 👨🏽‍💻🚀<br><br>🌱 I’m currently learning React and Node<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Lofi music helps me to program better
+I'm Arlem, web development 👨🏽‍💻🚀<br><br>🌱 I’m currently learning React and Node<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Lofi music helps me to program better
 
 # 💻 Tech Stack:
 
