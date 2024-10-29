@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Arlem, web development 👨🏽‍💻🚀<br><br>🌱 I’m currently learning React and Node<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Lofi music helps me to program better
+I'm Gosu, web development 👨🏽‍💻🚀<br><br>🌱 I’m currently learning React and Node<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Lofi music helps me to program better
 
 # 💻 Tech Stack:
 
@@ -8,8 +8,8 @@ I'm Arlem, web development 👨🏽‍💻🚀<br><br>🌱 I’m currently learn
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-jhondoncan.vercel.app/api?username=arlemdev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arlemdev&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-jhondoncan.vercel.app/api?username=gotsudev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gotsudev&theme=tokyonight&hide_border=false)
 
 ---
 
